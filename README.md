@@ -4,22 +4,22 @@
 # Mahdi Jafari Boden
 
 
-Hello and welcome to my game. Speed Thrust is a 2D car game with 3 different levels and two cars for multiplayer competetive. 
+Hello and welcome to my game. Speed Thrust is a 2D car game with three different levels and two cars for multiplayer competition.
 
 # CODE
-At first i tried to make a 3D game but i failed because it was too much for me, Then i made a fresh start with 2D. I hade no idea about different ways of moving objects in games but by watching tons of tutorials i found out that Addforce is the best match for my game, because it gives more natrual feeling than just instant move and instant stop. I used lerp to make improvement for steering system, more speed more steering, less speed less steering like a real car. Physic material is used in order to give a small friction and bouncines.
- For lap system and in order to not cheat i used boolean onTrigger checkpoints, when they are true and player triggers the final checkpoint the lap increases. Pause, Resume, buttons functions and other codes are very simple.
- I used old input manager instead of new input system, there are not much keys and i used only 4 keys for each player, easier with old one. I thought to use Scrpitable game objects but i saw them unnecessary for this small & solo project.
+At first, I tried to make a 3D game, but I failed because it was too much for me. Then I made a fresh start with 2D. I had no idea about different ways of moving objects in games, but after watching tons of tutorials, I found out that Addforce is the best match for my game because it gives a more natural feeling than just an instant move and an instant stop. I used lerp to make improvements to the steering system—more speed, more steering, less speed, less steering—like a real car. Physic material is used in order to give a small friction and bounciness.
+For the lap system and in order to not cheat, I used boolean onTrigger checkpoints; when they are true and the player triggers the final checkpoint, the lap increases. Pause, resume, button functions, and other codes are very simple.
+I used the old input manager instead of the new input system; there are not many keys, and I used only 4 keys for each player, which was easier with the old one. I thought to use Scrpitable game objects, but I saw them as unnecessary for this small and solo project.
 
 # Assets, UI
-I worked alone and no disigner.
-I downloaded a music and png files from internet for cars, backgrounds and buttons.
-I made the roads by using a complex tool which i download it from Sebastian Lague the youtuber.
+I worked alone and without a designer.
+I downloaded music and png files from the internet for cars, backgrounds, and buttons.
+I made the roads by using a complex tool, which I downloaded from Sebastian Lague, the YouTuber.
 
 
 # Other
-I used youtubers turorial like Brackeys and Jason Weimann to get inspired and know what to do, no copy paste.
-I could add more features if i had more time, not only to work but to research and learn too. I learned alot.
-The game is able to make a build so it is tested and playabe for Pc users. 
+I used YouTube tutorials like Brackeys and Jason Weimann to get inspired and know what to do; no copy-paste.
+I could add more features if I had more time, not only to work but to research and learn too. I learned a lot.
+The game is able to make a build, so it is tested and playable for PC users.
 
 # THANK YOU
